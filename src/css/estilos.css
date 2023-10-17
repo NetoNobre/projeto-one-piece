@@ -22,7 +22,7 @@ main .personagem.selecionado {
     display: block;
 }
 
-main .personagem.imagem {
+main .personagem .imagem {
     width: 100%;
     height: 100%;
     object-fit: cover;
